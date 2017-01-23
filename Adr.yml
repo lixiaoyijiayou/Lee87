@@ -1,0 +1,31 @@
+__Basic: 0x23C2390
+__Camera: 0x24D6D60
+__Chat: 0x23EBC48
+__Entity: 0x2209970
+__Game: 0x2489DF8
+__Item: ''
+__Mouse: 0x243EE24
+__Node: 0x24C1DB0
+__Panel: ''
+__Player: 0x23D84C0
+__SteamID: 0x37B18
+Client: 0x7FF86E130000
+Ent: 
+  Skill: 
+    _: 0x414
+    Active: 0x10
+    CD: 0x14
+    CDs: 0x1C
+    Count: 0x58
+    Hide: 0x0
+    Lv: 0xC
+    MP: 0x20
+    PowerTreads: 0x84
+    Range: 0x18
+Game: 
+  MatchID: 0x590
+  Pause: 0x704
+  PreGameStartTime: 0x410
+  State: 0x6C
+  StateTransitionTime: 0x7C
+  Tick: 0x66C
