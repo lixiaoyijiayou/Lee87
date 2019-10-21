@@ -1,0 +1,19 @@
+_Player: 
+  Team: 0x20
+  SteamID: 0x38
+  NCode: 0x14
+  Index: 0x34
+  InTeam:0x84
+  _Offset:0x1E300
+  _Loop:0x7D0
+  _ConstantNum:0x3C
+  _TeamLenth: 0x78
+_Scanner:
+  Speculate:0x1F40
+  StrOffset:0x108
+  ChainOffset:0xF8
+  CameraOffset:0x80
+_Time:
+  ClockMOffset:0x8
+  ClockSOffset:0x10
+ 
