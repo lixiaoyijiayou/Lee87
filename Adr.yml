@@ -1,0 +1,132 @@
+__Alter: 20191011191153
+__Basic: 0x27A47C0
+__Camera: 0x28E7080
+__Game: 0x286DAA0
+__KeyBind: 0xFFFFF80123FB0000
+__Mouse: 0x281C214
+__Node: 0x299B4F0
+__Panorama: 0x41CEF8
+__Player: 0x27DC6F8
+__SteamID: 0x43338
+_Camera: 
+  _Offset: 0x270
+_Game: 
+  MatchID: 0x5A8
+  Mode: 0x98
+  Pause: 0x80C
+  Pnum: 256
+  Snum: 5
+  State: 0x68
+  StateTransitionTime: 0x78
+  Tick: 0x774
+_Modifier: 
+  Begin: 0x4C
+  BySkill: 0x64
+  ByUnit: 0x60
+  Count: 0x6C
+  Duration: 0x58
+  End: 0x5C
+  OnUnit: 0x68
+  Param: 0x744
+  Team: 0x80
+_Mouse: 
+  Num1: -0x90
+  Num2: -0x8C
+_Node: 
+  _BasicOffset: -0x18200
+  Active: 
+    CDOTA_BaseNPC: 0x286EAD0
+    CDOTA_BaseNPC_Additive: 0x286E980
+    CDOTA_BaseNPC_Building: 0x2873470
+    CDOTA_BaseNPC_Creature: 0x2871560
+    CDOTA_BaseNPC_Creep: 0x2871B40
+    CDOTA_BaseNPC_Creep_Lane: 0x2871CA0
+    CDOTA_BaseNPC_Creep_Siege: 0x2871680
+    CDOTA_BaseNPC_Shop: 0x2870D50
+    CDOTA_BaseNPC_Tower: 0x2C07DE0
+    CDOTA_Item_Physical: 0x286FF70
+    CDOTA_Item_Rune: 0x28700C0
+    CDOTA_Item_Smoke_Of_Deceit: 0x29886A0
+    CDOTA_NPC_Observer_Ward: 0x29897E0
+    CDOTA_NPC_Observer_Ward_TrueSight: 0x2989900
+    CDOTA_NPC_Techies_Minefield_Sign: 0x2972330
+    CDOTA_NPC_TechiesMines: 0x2971CF0
+    CDOTA_NPC_Treant_EyesInTheForest: 0x2972BF0
+    CDOTA_RoshanSpawner: 0x2950E00
+    CDOTA_Unit_Roshan: 0x2950F40
+    CDOTA_Unit_Undying_Tombstone: 0x29746B0
+  ForOnce: 
+    CDOTA_BaseNPC_Fort: 0x2735150
+    CDOTA_BaseNPC_Healer: 0x2873170
+    CDOTA_BaseNPC_Tower: 0x28732D0
+    CDOTA_Unit_Fountain: 0x2812C88
+  Other: 
+    CDOTA_BaseNPC_Creep: 0x2740D10
+    CDOTA_BaseNPC_Creep_Neutral: 0x28717E0
+    CDOTA_Item_ObserverWard: 0x298B240
+    CDOTA_Item_Ward_Dispenser: 0x298B0C0
+    CDOTA_Unit_Courier: 0x28B19F0
+    CDOTA_Wisp_Spirit: 0x29763F0
+_Player: 
+  Lenth: 0x138
+  Slots: 0x40
+  Team: 0x48
+  Value: 0x3E8
+Client: 0x7FEDC050000
+Ent: 
+  Act: 0x13E0
+  Agi: 0x13EC
+  Angle: 0x118
+  AttackMax: 0xC84
+  Attribute: 0x1450
+  AXYZ: 0x1A0
+  BuffCount: 0xCA0
+  BuffList: 0xCA8
+  EXP: 0x13D8
+  Exposed: 0x1390
+  HP: 0x1BC
+  HPBar: 0xB40
+  HPm: 0x1B8
+  HPr: 0xB00
+  Int: 0x15A4
+  ItemList: 0xDD0
+  Last: 0x1F8
+  Lv: 0xAEC
+  MeleeOrRanged: 0xB18
+  MP: 0xB4C
+  MPm: 0xB50
+  MS: 0x9F8
+  Owner: 0x2C0
+  OwnerGround: 0x2D8
+  Pos: 0x1120
+  Proto: 0x1718
+  Rune: 0x790
+  Sight: 0xC78
+  Skill: 
+    Active: 0x3FC
+    Auto: 0x420
+    CD: 0x400
+    CDs: 0x404
+    CDTick: 0x2F0
+    CDTime: 0x414
+    CR: 0x414
+    Hide: 0x3F8
+    Lock: 0x450
+    Lv: 0x3F8
+    MP: 0x408
+    Num: 0x470
+    PT: 0x490
+  SkillID: 0x3C8
+  SkillList: 0xB64
+  SP: 0x1564
+  State: 0x1200
+  Str: 0x13E8
+  Team: 0x22B
+  UnitID: 0xBF8
+  WispExist: 0x2F0
+  X: 0x108
+  Y: 0x10C
+  Z: 0x110
+Lane: 
+  Melee2: 133
+  Melee3: 130
